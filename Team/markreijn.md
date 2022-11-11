@@ -1,4 +1,4 @@
-### hey there 
+### Hey There 
 <a href="https://www.instagram.com/mreijn/">
   <img align="left" alt="Marks's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -19,9 +19,9 @@ Raised with a 100% uptime philosophy, owning functionality over systems. Nowaday
   <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/634465a14f04ce6de1027b56/12b4425c-1d07-4ca3-bf89-86b1cbc33cef/Mark+Reijn+-+Profiel.jpg" width="300" />
   
 - 💼 Got a business challange? Do reach, [email](mailto:mreijn@lionsville.nl) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 Ask me about anything, i am happy to help;
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:time_consume-->
 
 - Understand what I'm doing
