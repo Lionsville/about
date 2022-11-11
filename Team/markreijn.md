@@ -24,11 +24,11 @@ Raised with a 100% uptime philosophy, owning functionality over systems. Nowaday
 📊 **this week i spent my time on:**
 <!--START_SECTION:time_consume-->
 
-Understand what I'm doing
-Ask myself the "purpose" question
-Challanging customers
-Coding myself away
-Automate at least something this week
+- Understand what I'm doing
+- Ask myself the "purpose" question
+- Challanging customers
+- Coding myself away
+- Automate at least one thing this week
 
 Have a drink with you perhaps?
 
